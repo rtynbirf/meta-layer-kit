@@ -1,0 +1,31 @@
+name: "ci-gate"
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: "read"
+
+concurrency:
+  group: "ci-gate"
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "checkout (пин по SHA, credentials не хранить)"
+        uses: "actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683" # v4.2.2
+        with:
+          persist-credentials: false
+
+      - name: "пломба ZIP: sha256 совпадает с выложенным артефактом"
+        run: "sha256sum -c prorab-pack.zip.sha256"
+
+      - name: "офлайн-дрейф: карта = детерминированный захват (без сети и ключей)"
+        run: |
+          unzip -q prorab-pack.zip
+          cd meta-layer
+          python3 meta_snapshot.py drift --login rtynbirf --root orbit --source orbit/api-capture.json
+          python3 -m py_compile meta_snapshot.py
+          bash -n bootstrap.sh
