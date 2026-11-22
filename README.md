@@ -1,3 +1,19 @@
+<div align="center">
+
+<a href="https://github.com/rtynbirf/meta-layer-kit"><img src="banner.png" width="100%" alt="meta-layer-kit — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
+<div align="center">
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы meta-layer-kit в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+</div>
+
+| ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
+|---:|---:|---:|---|---:|
+| 7 | 1 | 2 | 2026-11-22 | 0 |
+<!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
 # meta-layer-kit · ЕДИНЫЙ ZIP НАБОРА МЕТА-УПРАВЛЕНИЯ
 
 > 1 смысл = 1 репо: здесь живёт единый ZIP комплекта мета-управления домом — и ничего больше.
