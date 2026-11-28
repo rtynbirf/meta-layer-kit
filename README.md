@@ -4,6 +4,14 @@
 
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta-layer-kit@main/repo-muse.svg" width="100%" alt="Муза meta-layer-kit: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta-layer-kit@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
   <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы meta-layer-kit в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
@@ -11,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 19 | 3 | 24 | 2026-11-28 | 0 |
+| 19 | 3 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# meta-layer-kit
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta-layer-kit@main/.github/social-preview.png" alt="meta-layer-kit" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/meta-layer-kit"><img src="banner.png" width="100%" alt="meta-layer-kit — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
 
 # meta-layer-kit · ЕДИНЫЙ ZIP НАБОРА МЕТА-УПРАВЛЕНИЯ
 
@@ -53,3 +73,5 @@ bash bootstrap.sh             # живой прогон: ключ — скрыт
 ```
 
 Правила работы в этом репо — `AGENTS.md`; уязвимости — `SECURITY.md`; лицензия — `LICENSE`.
+
+<!--ФОРЖ:ПОДВАЛ-->
