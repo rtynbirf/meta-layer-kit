@@ -19,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 21 | 3 | 26 | 2026-11-28 | 0 |
+| 21 | 3 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# meta-layer-kit
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/meta-layer-kit"><img src="banner.png" width="100%" alt="meta-layer-kit — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
 
 # meta-layer-kit
 
